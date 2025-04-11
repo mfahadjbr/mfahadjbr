@@ -1,4 +1,8 @@
-<p align="center" border-radius: 9999px;><a href="https://mfahadjbr1.vercel.app/" target="_blank"><img src="162830625 (1).jpeg" /></a></p>
+<p align="center">
+  <a href="https://mfahadjbr1.vercel.app/" target="_blank">
+    <img src="162830625 (1).jpeg" class="rounded-full w-32 h-32" />
+  </a>
+</p>
 # 💫 About Me:
 Hello! I'm Muhammad Fahad Jabbar, a passionate Full Stack Developer with over 1.5 years of experience in creating robust and scalable web applications. My journey in the world of programming started when I was in university, and since then, I've been constantly learning and evolving with the ever-changing landscape of web technologies.<br><br>I specialize in Next.js ecosystems, with expertise in React for frontend development and Python,Fastapi,Crewai,Langchain for backend services. I'm also well-versed in database management, API design, and cloud deployment strategies.
 
